@@ -1,5 +1,8 @@
 fitz
 streamlit
+python-dotenv
+PyMuPDF
+google-generative-ai
 langchain_google_genai 
 python-dotenv
 openai
